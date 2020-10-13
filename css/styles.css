@@ -363,6 +363,7 @@ mark,
 
 .link-list {
   text-align: left;
+  list-style-position: inside;
 }
 .list-unstyled {
   padding-left: 0;
