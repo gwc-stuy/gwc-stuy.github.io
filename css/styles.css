@@ -91,7 +91,9 @@ ol,
 ul,
 dl {
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  list-style-position: inside;
+}
 
 ol ol,
 ul ul,
@@ -359,6 +361,9 @@ mark,
   padding: 0.2em;
   background-color: #fcf8e3; }
 
+.link-list {
+  text-align: left;
+}
 .list-unstyled {
   padding-left: 0;
   list-style: none; }
