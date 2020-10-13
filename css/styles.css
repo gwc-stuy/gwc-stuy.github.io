@@ -93,13 +93,17 @@ dl {
   margin-top: 0;
   margin-bottom: 1rem;
   list-style-position: inside;
+  text-align: left;
 }
 
 ol ol,
 ul ul,
 ol ul,
 ul ol {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  list-style-position: inside;
+  text-align: left;
+}
 
 dt {
   font-weight: 700; }
