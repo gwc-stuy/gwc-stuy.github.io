@@ -7434,6 +7434,10 @@ form .row:first-child .floating-label-form-group {
 .btn-social {
   margin-bottom: 0.5rem; }
 
-.join {
+/* .join {
   font-color: #e5ecff;
+} */
+
+#past-events {
+  background-color: #e5ecff;
 }
